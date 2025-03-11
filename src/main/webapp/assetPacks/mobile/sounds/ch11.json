@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch11.ogg",
+    "ch11.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "SymbolPrizeIncrease": [
+      1050,
+      806.5532879818595
+    ]
+  }
+}

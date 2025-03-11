@@ -1,0 +1,315 @@
+{"frames": {
+
+"bonusLittleFly.png":
+{
+	"frame": {"x":1094,"y":788,"w":170,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":170,"h":73},
+	"sourceSize": {"w":170,"h":80}
+},
+"BottomGlow.png":
+{
+	"frame": {"x":1621,"y":1436,"w":106,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x01.png":
+{
+	"frame": {"x":688,"y":1579,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x02.png":
+{
+	"frame": {"x":1723,"y":1371,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x03.png":
+{
+	"frame": {"x":1723,"y":1473,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x04.png":
+{
+	"frame": {"x":779,"y":1681,"w":106,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x05.png":
+{
+	"frame": {"x":881,"y":1637,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"BottomGlow_x06.png":
+{
+	"frame": {"x":989,"y":1637,"w":106,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":106,"h":100},
+	"sourceSize": {"w":110,"h":110}
+},
+"landscape_digitalBottom.png":
+{
+	"frame": {"x":853,"y":983,"w":652,"h":190},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":652,"h":190},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_howToPlayDi901.png":
+{
+	"frame": {"x":1,"y":1639,"w":40,"h":654},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":654},
+	"sourceSize": {"w":40,"h":654}
+},
+"landscape_howToPlayDi902.png":
+{
+	"frame": {"x":1,"y":1681,"w":2,"h":654},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":654},
+	"sourceSize": {"w":2,"h":654}
+},
+"landscape_logo.png":
+{
+	"frame": {"x":1211,"y":1437,"w":408,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":408,"h":190},
+	"sourceSize": {"w":408,"h":200}
+},
+"landscape_noWinDi901.png":
+{
+	"frame": {"x":1875,"y":722,"w":40,"h":544},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":544},
+	"sourceSize": {"w":40,"h":544}
+},
+"landscape_noWinDi902.png":
+{
+	"frame": {"x":1,"y":1731,"w":2,"h":544},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":544},
+	"sourceSize": {"w":2,"h":544}
+},
+"landscape_portrait_footerBar.png":
+{
+	"frame": {"x":1,"y":1,"w":1440,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":58},
+	"sourceSize": {"w":1440,"h":58}
+},
+"landscape_portrait_footerDivider.png":
+{
+	"frame": {"x":657,"y":1681,"w":2,"h":40},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":40},
+	"sourceSize": {"w":2,"h":40}
+},
+"landscape_ptOutlineA.png":
+{
+	"frame": {"x":1045,"y":983,"w":647,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":647,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ptOutlineB.png":
+{
+	"frame": {"x":1211,"y":788,"w":647,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":647,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ptOutlineC.png":
+{
+	"frame": {"x":1211,"y":1629,"w":642,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":17,"w":642,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ptOutlineD.png":
+{
+	"frame": {"x":1377,"y":788,"w":647,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":647,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ptOutlineE.png":
+{
+	"frame": {"x":1543,"y":787,"w":647,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":647,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ptOutlineF.png":
+{
+	"frame": {"x":1709,"y":722,"w":647,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":647,"h":164},
+	"sourceSize": {"w":652,"h":190}
+},
+"landscape_ticketPlane.png":
+{
+	"frame": {"x":908,"y":61,"w":920,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":920,"h":184},
+	"sourceSize": {"w":922,"h":184}
+},
+"landscape_timeOu901.png":
+{
+	"frame": {"x":1,"y":1735,"w":40,"h":448},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":448},
+	"sourceSize": {"w":40,"h":448}
+},
+"landscape_timeOu902.png":
+{
+	"frame": {"x":1,"y":1777,"w":2,"h":448},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":448},
+	"sourceSize": {"w":2,"h":448}
+},
+"landscape_winDi901.png":
+{
+	"frame": {"x":1,"y":1685,"w":40,"h":546},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":546},
+	"sourceSize": {"w":40,"h":546}
+},
+"landscape_winDi902.png":
+{
+	"frame": {"x":1,"y":1727,"w":2,"h":546},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":546},
+	"sourceSize": {"w":2,"h":546}
+},
+"LittleGreenMenSbonusDI.png":
+{
+	"frame": {"x":1,"y":845,"w":685,"h":792},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":685,"h":792},
+	"sourceSize": {"w":685,"h":804}
+},
+"portrait_gameLogo.png":
+{
+	"frame": {"x":549,"y":1685,"w":228,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":16,"w":228,"h":108},
+	"sourceSize": {"w":300,"h":130}
+},
+"portrait_ptOutlineA.png":
+{
+	"frame": {"x":1094,"y":61,"w":725,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":725,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"portrait_ptOutlineB.png":
+{
+	"frame": {"x":1259,"y":61,"w":725,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":725,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"portrait_ptOutlineC.png":
+{
+	"frame": {"x":1589,"y":1,"w":719,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":719,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"portrait_ptOutlineD.png":
+{
+	"frame": {"x":1754,"y":1,"w":719,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":719,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"portrait_ptOutlineE.png":
+{
+	"frame": {"x":688,"y":853,"w":724,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":724,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"portrait_ptOutlineF.png":
+{
+	"frame": {"x":1424,"y":61,"w":724,"h":163},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":724,"h":163},
+	"sourceSize": {"w":730,"h":180}
+},
+"selectionBackgroundsPortrait.png":
+{
+	"frame": {"x":1,"y":61,"w":704,"h":782},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":302,"w":704,"h":782},
+	"sourceSize": {"w":810,"h":1228}
+},
+"ticketPlane.png":
+{
+	"frame": {"x":707,"y":61,"w":790,"h":199},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":790,"h":199},
+	"sourceSize": {"w":790,"h":200}
+}},
+"animations": {
+	"BottomGlow_x": ["BottomGlow_x01.png","BottomGlow_x02.png","BottomGlow_x03.png","BottomGlow_x04.png","BottomGlow_x05.png","BottomGlow_x06.png"],
+	"landscape_howToPlayDi": ["landscape_howToPlayDi901.png","landscape_howToPlayDi902.png"],
+	"landscape_noWinDi": ["landscape_noWinDi901.png","landscape_noWinDi902.png"],
+	"landscape_timeOu": ["landscape_timeOu901.png","landscape_timeOu902.png"],
+	"landscape_winDi": ["landscape_winDi901.png","landscape_winDi902.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui2.png",
+	"format": "RGBA8888",
+	"size": {"w":1918,"h":1794},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:248a7435dbdc226279cdafc5f549b398:a7db30e5d51980ae8b833ac0fe4952e7:56cbde1bbf049bc117e5a8b87eea74cc$"
+}
+}

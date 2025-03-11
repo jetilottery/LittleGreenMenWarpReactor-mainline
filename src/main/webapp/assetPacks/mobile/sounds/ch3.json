@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch3.ogg",
+    "ch3.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "AlienButtonAppear": [
+      1050,
+      1252.7891156462586
+    ],
+    "SymbolSpaceShip": [
+      3100,
+      2292.1088435374145
+    ]
+  }
+}

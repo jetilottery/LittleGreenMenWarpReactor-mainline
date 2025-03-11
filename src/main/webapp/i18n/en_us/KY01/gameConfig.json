@@ -1,0 +1,8 @@
+{
+    "showTutorialAtBeginning": true,
+    "enableAudioDialog": false,
+    "showResultScreen": false,
+    "isSymbolsExplodesTogether": false,
+    "suppressNonWinResultPlaque": true,
+    "consoleEnabledDuringPlay": true
+}

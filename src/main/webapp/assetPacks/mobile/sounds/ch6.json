@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "SymbolMeteorIncrease": [
+      1050,
+      502.31292517006796
+    ]
+  }
+}

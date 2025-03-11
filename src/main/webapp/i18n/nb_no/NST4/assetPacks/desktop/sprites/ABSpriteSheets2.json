@@ -1,0 +1,304 @@
+{"frames": {
+
+"ActionTrailingLight_0001.png":
+{
+	"frame": {"x":1257,"y":609,"w":309,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":27,"w":309,"h":298},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0002.png":
+{
+	"frame": {"x":1867,"y":1,"w":164,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":53,"w":164,"h":153},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0003.png":
+{
+	"frame": {"x":1843,"y":900,"w":166,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":45,"w":166,"h":166},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0004.png":
+{
+	"frame": {"x":488,"y":933,"w":179,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":44,"w":179,"h":177},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0005.png":
+{
+	"frame": {"x":880,"y":927,"w":210,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":27,"w":210,"h":212},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0006.png":
+{
+	"frame": {"x":669,"y":927,"w":209,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":22,"w":209,"h":214},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0007.png":
+{
+	"frame": {"x":1092,"y":916,"w":215,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":19,"w":215,"h":222},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0008.png":
+{
+	"frame": {"x":1608,"y":900,"w":233,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":14,"w":233,"h":236},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0009.png":
+{
+	"frame": {"x":1580,"y":281,"w":250,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":15,"w":250,"h":257},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0010.png":
+{
+	"frame": {"x":1580,"y":1,"w":273,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":14,"w":273,"h":278},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0011.png":
+{
+	"frame": {"x":1568,"y":609,"w":297,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":17,"w":297,"h":289},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0012.png":
+{
+	"frame": {"x":1269,"y":1,"w":309,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":17,"w":309,"h":301},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0013.png":
+{
+	"frame": {"x":956,"y":1,"w":311,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":16,"w":311,"h":303},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0014.png":
+{
+	"frame": {"x":945,"y":611,"w":310,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":17,"w":310,"h":303},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0015.png":
+{
+	"frame": {"x":943,"y":306,"w":312,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":18,"w":312,"h":303},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0016.png":
+{
+	"frame": {"x":1,"y":1,"w":317,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":317,"h":311},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0017.png":
+{
+	"frame": {"x":631,"y":307,"w":310,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":18,"w":310,"h":304},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0018.png":
+{
+	"frame": {"x":313,"y":626,"w":312,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":312,"h":305},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0019.png":
+{
+	"frame": {"x":1,"y":626,"w":310,"h":306},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":310,"h":306},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0020.png":
+{
+	"frame": {"x":1,"y":314,"w":314,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":14,"w":314,"h":310},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0021.png":
+{
+	"frame": {"x":1257,"y":306,"w":314,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":314,"h":301},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0022.png":
+{
+	"frame": {"x":639,"y":1,"w":315,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":19,"w":315,"h":303},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0023.png":
+{
+	"frame": {"x":627,"y":621,"w":316,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":18,"w":316,"h":304},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0024.png":
+{
+	"frame": {"x":320,"y":1,"w":317,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":317,"h":304},
+	"sourceSize": {"w":330,"h":330}
+},
+"ActionTrailingLight_0025.png":
+{
+	"frame": {"x":317,"y":314,"w":312,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":17,"w":312,"h":305},
+	"sourceSize": {"w":330,"h":330}
+},
+"coinOne_0001.png":
+{
+	"frame": {"x":172,"y":934,"w":64,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":0,"w":64,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0002.png":
+{
+	"frame": {"x":87,"y":934,"w":83,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":0,"w":83,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0003.png":
+{
+	"frame": {"x":364,"y":933,"w":122,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":122,"h":192},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0004.png":
+{
+	"frame": {"x":1457,"y":909,"w":149,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":149,"h":169},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0005.png":
+{
+	"frame": {"x":1867,"y":156,"w":161,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":161,"h":163},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0006.png":
+{
+	"frame": {"x":1867,"y":321,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":20,"w":160,"h":160},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0007.png":
+{
+	"frame": {"x":1867,"y":648,"w":156,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":156,"h":161},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0008.png":
+{
+	"frame": {"x":1867,"y":483,"w":159,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":18,"w":159,"h":163},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0009.png":
+{
+	"frame": {"x":1309,"y":909,"w":146,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":11,"w":146,"h":176},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0010.png":
+{
+	"frame": {"x":238,"y":934,"w":124,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":1,"w":124,"h":197},
+	"sourceSize": {"w":200,"h":200}
+},
+"coinOne_0011.png":
+{
+	"frame": {"x":1,"y":934,"w":84,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":0,"w":84,"h":200},
+	"sourceSize": {"w":200,"h":200}
+}},
+"animations": {
+	"ActionTrailingLight": ["ActionTrailingLight_0001.png","ActionTrailingLight_0002.png","ActionTrailingLight_0003.png","ActionTrailingLight_0004.png","ActionTrailingLight_0005.png","ActionTrailingLight_0006.png","ActionTrailingLight_0007.png","ActionTrailingLight_0008.png","ActionTrailingLight_0009.png","ActionTrailingLight_0010.png","ActionTrailingLight_0011.png","ActionTrailingLight_0012.png","ActionTrailingLight_0013.png","ActionTrailingLight_0014.png","ActionTrailingLight_0015.png","ActionTrailingLight_0016.png","ActionTrailingLight_0017.png","ActionTrailingLight_0018.png","ActionTrailingLight_0019.png","ActionTrailingLight_0020.png","ActionTrailingLight_0021.png","ActionTrailingLight_0022.png","ActionTrailingLight_0023.png","ActionTrailingLight_0024.png","ActionTrailingLight_0025.png"],
+	"coinOne": ["coinOne_0001.png","coinOne_0002.png","coinOne_0003.png","coinOne_0004.png","coinOne_0005.png","coinOne_0006.png","coinOne_0007.png","coinOne_0008.png","coinOne_0009.png","coinOne_0010.png","coinOne_0011.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ABSpriteSheets2.png",
+	"format": "RGBA8888",
+	"size": {"w":2032,"h":1142},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:84f65439a51c0de4fefe2c9df9550d0d:47a5693c63214c97149c88bf4d1b62d5:02b745bab1fb3eefeb8853525b7df0c0$"
+}
+}

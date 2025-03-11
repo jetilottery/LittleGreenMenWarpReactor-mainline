@@ -1,0 +1,641 @@
+{"frames": {
+
+"MeteoriteWind_0001.png":
+{
+	"frame": {"x":1,"y":603,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0002.png":
+{
+	"frame": {"x":153,"y":603,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0003.png":
+{
+	"frame": {"x":305,"y":603,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0004.png":
+{
+	"frame": {"x":457,"y":603,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0005.png":
+{
+	"frame": {"x":603,"y":1,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0006.png":
+{
+	"frame": {"x":603,"y":153,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0007.png":
+{
+	"frame": {"x":603,"y":305,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0008.png":
+{
+	"frame": {"x":609,"y":589,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0009.png":
+{
+	"frame": {"x":755,"y":1,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0010.png":
+{
+	"frame": {"x":755,"y":153,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0011.png":
+{
+	"frame": {"x":755,"y":305,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0012.png":
+{
+	"frame": {"x":609,"y":741,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0013.png":
+{
+	"frame": {"x":1,"y":755,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0014.png":
+{
+	"frame": {"x":153,"y":755,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0015.png":
+{
+	"frame": {"x":305,"y":755,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0016.png":
+{
+	"frame": {"x":457,"y":755,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0017.png":
+{
+	"frame": {"x":609,"y":893,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0018.png":
+{
+	"frame": {"x":1,"y":907,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0019.png":
+{
+	"frame": {"x":153,"y":907,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0020.png":
+{
+	"frame": {"x":305,"y":907,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0021.png":
+{
+	"frame": {"x":457,"y":907,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0022.png":
+{
+	"frame": {"x":609,"y":1045,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0023.png":
+{
+	"frame": {"x":1,"y":1059,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0024.png":
+{
+	"frame": {"x":153,"y":1059,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0025.png":
+{
+	"frame": {"x":305,"y":1059,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0026.png":
+{
+	"frame": {"x":457,"y":1059,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0027.png":
+{
+	"frame": {"x":609,"y":1197,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0028.png":
+{
+	"frame": {"x":1,"y":1211,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0029.png":
+{
+	"frame": {"x":153,"y":1211,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0030.png":
+{
+	"frame": {"x":305,"y":1211,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0031.png":
+{
+	"frame": {"x":457,"y":1211,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0032.png":
+{
+	"frame": {"x":609,"y":1349,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0033.png":
+{
+	"frame": {"x":761,"y":589,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"MeteoriteWind_0034.png":
+{
+	"frame": {"x":907,"y":1,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0001.png":
+{
+	"frame": {"x":907,"y":153,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0002.png":
+{
+	"frame": {"x":907,"y":305,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0003.png":
+{
+	"frame": {"x":761,"y":741,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0004.png":
+{
+	"frame": {"x":761,"y":893,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0005.png":
+{
+	"frame": {"x":761,"y":1045,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0006.png":
+{
+	"frame": {"x":761,"y":1197,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0007.png":
+{
+	"frame": {"x":761,"y":1349,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0008.png":
+{
+	"frame": {"x":913,"y":589,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0009.png":
+{
+	"frame": {"x":1059,"y":1,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0010.png":
+{
+	"frame": {"x":1059,"y":153,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0011.png":
+{
+	"frame": {"x":1059,"y":305,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0012.png":
+{
+	"frame": {"x":913,"y":741,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0013.png":
+{
+	"frame": {"x":913,"y":893,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0014.png":
+{
+	"frame": {"x":913,"y":1045,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0015.png":
+{
+	"frame": {"x":913,"y":1197,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0016.png":
+{
+	"frame": {"x":913,"y":1349,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0017.png":
+{
+	"frame": {"x":1065,"y":589,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0018.png":
+{
+	"frame": {"x":1211,"y":1,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0019.png":
+{
+	"frame": {"x":1211,"y":153,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0020.png":
+{
+	"frame": {"x":1211,"y":305,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0021.png":
+{
+	"frame": {"x":1065,"y":741,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0022.png":
+{
+	"frame": {"x":1065,"y":893,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0023.png":
+{
+	"frame": {"x":1065,"y":1045,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0024.png":
+{
+	"frame": {"x":1065,"y":1197,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0025.png":
+{
+	"frame": {"x":1065,"y":1349,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0026.png":
+{
+	"frame": {"x":1217,"y":589,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0027.png":
+{
+	"frame": {"x":1217,"y":741,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0028.png":
+{
+	"frame": {"x":1217,"y":893,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0029.png":
+{
+	"frame": {"x":1217,"y":1045,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0030.png":
+{
+	"frame": {"x":1217,"y":1197,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"spaceshipWind_0031.png":
+{
+	"frame": {"x":1217,"y":1349,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"TotalWinRotatingLight.png":
+{
+	"frame": {"x":1,"y":1,"w":600,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":600},
+	"sourceSize": {"w":600,"h":600}
+},
+"warpBonusStar_0001.png":
+{
+	"frame": {"x":603,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0002.png":
+{
+	"frame": {"x":735,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0003.png":
+{
+	"frame": {"x":1,"y":1363,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0004.png":
+{
+	"frame": {"x":133,"y":1363,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0005.png":
+{
+	"frame": {"x":265,"y":1363,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0006.png":
+{
+	"frame": {"x":397,"y":1363,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0007.png":
+{
+	"frame": {"x":867,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0008.png":
+{
+	"frame": {"x":999,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0009.png":
+{
+	"frame": {"x":1131,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0010.png":
+{
+	"frame": {"x":1263,"y":457,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0011.png":
+{
+	"frame": {"x":1363,"y":1,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"warpBonusStar_0012.png":
+{
+	"frame": {"x":1363,"y":133,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+}},
+"animations": {
+	"MeteoriteWind": ["MeteoriteWind_0001.png","MeteoriteWind_0002.png","MeteoriteWind_0003.png","MeteoriteWind_0004.png","MeteoriteWind_0005.png","MeteoriteWind_0006.png","MeteoriteWind_0007.png","MeteoriteWind_0008.png","MeteoriteWind_0009.png","MeteoriteWind_0010.png","MeteoriteWind_0011.png","MeteoriteWind_0012.png","MeteoriteWind_0013.png","MeteoriteWind_0014.png","MeteoriteWind_0015.png","MeteoriteWind_0016.png","MeteoriteWind_0017.png","MeteoriteWind_0018.png","MeteoriteWind_0019.png","MeteoriteWind_0020.png","MeteoriteWind_0021.png","MeteoriteWind_0022.png","MeteoriteWind_0023.png","MeteoriteWind_0024.png","MeteoriteWind_0025.png","MeteoriteWind_0026.png","MeteoriteWind_0027.png","MeteoriteWind_0028.png","MeteoriteWind_0029.png","MeteoriteWind_0030.png","MeteoriteWind_0031.png","MeteoriteWind_0032.png","MeteoriteWind_0033.png","MeteoriteWind_0034.png"],
+	"spaceshipWind": ["spaceshipWind_0001.png","spaceshipWind_0002.png","spaceshipWind_0003.png","spaceshipWind_0004.png","spaceshipWind_0005.png","spaceshipWind_0006.png","spaceshipWind_0007.png","spaceshipWind_0008.png","spaceshipWind_0009.png","spaceshipWind_0010.png","spaceshipWind_0011.png","spaceshipWind_0012.png","spaceshipWind_0013.png","spaceshipWind_0014.png","spaceshipWind_0015.png","spaceshipWind_0016.png","spaceshipWind_0017.png","spaceshipWind_0018.png","spaceshipWind_0019.png","spaceshipWind_0020.png","spaceshipWind_0021.png","spaceshipWind_0022.png","spaceshipWind_0023.png","spaceshipWind_0024.png","spaceshipWind_0025.png","spaceshipWind_0026.png","spaceshipWind_0027.png","spaceshipWind_0028.png","spaceshipWind_0029.png","spaceshipWind_0030.png","spaceshipWind_0031.png"],
+	"warpBonusStar": ["warpBonusStar_0001.png","warpBonusStar_0002.png","warpBonusStar_0003.png","warpBonusStar_0004.png","warpBonusStar_0005.png","warpBonusStar_0006.png","warpBonusStar_0007.png","warpBonusStar_0008.png","warpBonusStar_0009.png","warpBonusStar_0010.png","warpBonusStar_0011.png","warpBonusStar_0012.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "meteoriteWind.png",
+	"format": "RGBA8888",
+	"size": {"w":1500,"h":1500},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:81da74e99d8c7556bb2313ad55ba76bf:f0ba4d9cffb76fc7a8462e405b1fb861:439ad7bf3606c47809c5a30f5323b72f$"
+}
+}

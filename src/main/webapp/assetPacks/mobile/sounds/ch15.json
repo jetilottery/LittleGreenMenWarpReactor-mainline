@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch15.ogg",
+    "ch15.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "SymbolCombine": [
+      1050,
+      1420.8843537414964
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+    "version": "8-23-2017 2:01PM Tale of the Red Cliffs Default SM",
+    "audioLoader":
+    {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}."
+    },
+    "title": "Little Green Men Warp Reactor",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Help",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+			"prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+			"overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play",
+			"availablePrices": "Available Price Points:{prices}",
+			"gameName": "Little Green Men Warp Reactor"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Help",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game.",
+        "lostConnection": "Lost Connection!"
+    },
+    "Game":
+    {
+        "button_go": "GO",
+        "warpBonus_header": "Collect a {@embed_star@} to win a prize instantly!",
+        "warpBonus_title": "WARP BONUS",
+        "WBTriggered": "No clusters remain – Warp Bonus triggered",
+        "ABTriggered": "No clusters remain – Whirl Bonus triggered",
+        "NMChain": "No clusters remain",
+        "payTableIntroText": "PRIZES FOR 10, 13 & 16 COLLECTED\nPRESS PLANETS FOR PAYS",
+        "priceTableHeader": "Prizes increase at 10, 13, & 16 or more!",
+        "price_level0": "10",
+        "price_level1": "13",
+        "price_level2": "16",
+
+        "payTable_symX10": "10",
+        "payTable_symX13": "13",
+        "payTable_symX16": "16",
+        "payTable_bottom_text": "In the Warp Bonus, collect a {@embed_star@} to win a prize instantly!",
+        "demo": "DEMO ",
+        "button_buy": "BUY",
+        "button_try": "TRY",
+        "button_play": "PLAY",
+        "button_continue": "CONTINUE",
+        "button_move2moneyGame": "PLAY WITH MONEY",
+        "button_autoPlay": "AUTO PLAY",
+        "button_playAgain": "PLAY AGAIN",
+        "button_MTMPlayAgain": "TRY AGAIN",
+        "button_payTable": "PAYTABLE",
+        "wager": "TICKET COST",
+        "meter_wager": "TICKET COST",
+        "balance": "BALANCE",
+        "wins": "WINS",
+        "wins_demo": "DEMO WINS ",
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_buyWin": "TOTAL WIN",
+        "message_tryWin": "TOTAL DEMO WIN",
+
+        "message_buyWin_bg": "CONGRATULATIONS!\nYOU HAVE WON",
+        "message_tryWin_bg": "THANKS FOR PLAYING!\nYOU COULD HAVE WON",
+        "message_anonymousTryWin": "THANKS FOR PLAYING!\nYOU COULD HAVE WON",
+        "message_close": "OK",
+        "button_exit": "EXIT",
+        "session_timeout_warning_exit_button": "EXIT",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "CONTINUE",
+        "warning_button_exitGame": "EXIT",
+        "warning_title": "WARNING",
+        "error_title": "ERROR",
+        "win_up_to": "WIN UP TO",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOW TO PLAY",
+        "tutorial_00_portrait": "Collect clusters of 3 or more identical,\n adjacent planets on the grid. New \nplanets fall in from above. Collect \n{@embed_spaceship@} and {@embed_meteorite@} to trigger a bonus game.",
+        "tutorial_01_portrait": "Collect 4 {@embed_spaceship@} to trigger the Warp Bonus. \n Collect additional planets or {@embed_star@} \nto  win a prize instantly.",
+        "tutorial_02_portrait": "Collect 4 {@embed_meteorite@} to trigger the Whirl Bonus. \n Planets may change position on the grid, \n where they may be randomly collected\n or  form new clusters.",
+        "tutorial_00_landscape": "Collect clusters of 3 or more identical, adjacent planets on the grid. \nNew planets fall in from above. Collect {@embed_spaceship@} and {@embed_meteorite@} to \ntrigger a bonus game.",
+        "tutorial_01_landscape": "Collect 4 {@embed_spaceship@} to trigger the Warp Bonus. Collect additional \nplanets or {@embed_star@} to win a prize instantly.",
+        "tutorial_02_landscape": "Collect 4 {@embed_meteorite@} to trigger the Whirl Bonus. Planets may change \nposition on the grid, where they may be randomly collected \nor form new clusters.",
+        "your_number": "YOUR SYMBOLS",
+        "luck_number": "WINNING SYMBOLS",
+        "meter_division": " | ",
+        "buttonClose": "CLOSE",
+        "prizeLevel": "Prize Level",
+        "prizeDescription":"Description",
+        "paytableWager":"Ticket Cost: ",
+        "prizeValue": "Prize Value",
+        "descPreTextLevel1":"16 or more ",
+        "descPreTextLevel2":"13 to 15 ",
+        "descPreTextLevel3":"10 to 12 "
+    }
+}

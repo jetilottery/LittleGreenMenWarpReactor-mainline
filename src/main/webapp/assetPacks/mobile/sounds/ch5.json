@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "AlienButtonAppear": [
+      1050,
+      1252.7891156462586
+    ],
+    "SymbolMeteor": [
+      3100,
+      544.6938775510204
+    ],
+    "SymbolMeteorIncrease": [
+      4150,
+      502.3129251700684
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+
+LittleGreenMenWin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 673 copy
+  rotate: false
+  xy: 2, 247
+  size: 597, 106
+  orig: 597, 106
+  offset: 0, 0
+  index: -1
+Ellipse 674
+  rotate: false
+  xy: 2, 104
+  size: 129, 141
+  orig: 129, 141
+  offset: 0, 0
+  index: -1
+Ellipse 674 copy
+  rotate: true
+  xy: 847, 44
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+Layer 465 copy 2
+  rotate: false
+  xy: 683, 242
+  size: 264, 255
+  orig: 264, 255
+  offset: 0, 0
+  index: -1
+Layer 472 copy
+  rotate: true
+  xy: 683, 499
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+Shape 605
+  rotate: false
+  xy: 2, 355
+  size: 679, 544
+  orig: 679, 544
+  offset: 0, 0
+  index: -1
+flicker0001
+  rotate: false
+  xy: 235, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0002
+  rotate: false
+  xy: 337, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0003
+  rotate: false
+  xy: 439, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0004
+  rotate: false
+  xy: 541, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0005
+  rotate: false
+  xy: 643, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0006
+  rotate: false
+  xy: 745, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0007
+  rotate: false
+  xy: 847, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0008
+  rotate: false
+  xy: 133, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0009
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0010
+  rotate: false
+  xy: 235, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0011
+  rotate: false
+  xy: 337, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0012
+  rotate: false
+  xy: 439, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0013
+  rotate: false
+  xy: 541, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0014
+  rotate: false
+  xy: 643, 38
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0015
+  rotate: false
+  xy: 745, 38
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flicker0016
+  rotate: false
+  xy: 133, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

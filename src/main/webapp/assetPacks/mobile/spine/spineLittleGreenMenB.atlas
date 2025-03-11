@@ -1,0 +1,117 @@
+
+spineLittleGreenMenB.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 6
+  rotate: false
+  xy: 456, 485
+  size: 501, 208
+  orig: 501, 208
+  offset: 0, 0
+  index: -1
+belowlight01
+  rotate: false
+  xy: 177, 695
+  size: 441, 158
+  orig: 441, 158
+  offset: 0, 0
+  index: -1
+belowlight02
+  rotate: false
+  xy: 2, 522
+  size: 452, 171
+  orig: 452, 171
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 565, 855
+  size: 205, 102
+  orig: 205, 102
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 913
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 710
+  size: 191, 173
+  orig: 191, 173
+  offset: 0, 0
+  index: -1
+lift hand
+  rotate: true
+  xy: 124, 903
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 675, 248
+  orig: 675, 248
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 383, 864
+  size: 180, 93
+  orig: 180, 93
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 181, 875
+  size: 200, 82
+  orig: 200, 82
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 772, 854
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+spaceship02
+  rotate: false
+  xy: 2, 252
+  size: 493, 231
+  orig: 493, 231
+  offset: 0, 0
+  index: -1
+
+spineLittleGreenMenB2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trail
+  rotate: false
+  xy: 2, 2
+  size: 739, 289
+  orig: 739, 289
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 293
+  size: 557, 492
+  orig: 557, 492
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 743, 187
+  size: 598, 249
+  orig: 598, 249
+  offset: 0, 0
+  index: -1
