@@ -55,7 +55,7 @@
       <groupId>com.igt.interactive.skbJet.buildInfrastructure.manchester</groupId>
       <artifactId>jetGameBabelTranspile</artifactId>
       <classifier>dist</classifier>
-      <version>1.4.0-SNAPSHOT</version>
+      <version>1.4.0</version>
       <type>zip</type>
     </dependency>
     <dependency>
